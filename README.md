@@ -1,5 +1,4 @@
-<div align="center">
-    
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20Dayun's%20GitHub%20%20&height=200&fontSize=50&fontColor=ffffff)
 
 
@@ -22,5 +21,3 @@
 
 
   
-  
-</div>
