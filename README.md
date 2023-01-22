@@ -5,6 +5,8 @@
 
 <h3>👩‍💻 Project 👩‍💻</h3>
 
+<h3>👩‍💻 Skills 👩‍💻</h3>
+
 <h3>👩‍💻 My Github Stats 👩‍💻</h3>
 
 <div align="center">
