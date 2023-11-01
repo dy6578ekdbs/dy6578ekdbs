@@ -38,7 +38,8 @@
 
 | PERIOD | TITLE | SUBJECT |
 | ------- | ------- | -------|
-| 2022.09-2023.00 | [**믿어방 : 새내기를 위한 부동산 계약 도움 AI 매니저**](https://github.com/MIDUBANG/MIDUBANG-FRONT) | 프론트엔드 개발, NLP 서버 구축, UI 디자인 |
+| 2023.08-2023.10 | [**KUDDY : 채팅 기반 가이드 매칭 서비스**](https://github.com/KUDDY-2023/KUDDY-front) | 프론트엔드 개발 |
+| 2023.01-2023.05 | [**믿어방 : 새내기를 위한 부동산 계약 도움 AI 매니저**](https://github.com/MIDUBANG/MIDUBANG-FRONT) | 프론트엔드 개발, NLP 서버 구축, UI 디자인 |
 | 2022.12-2023.01 | [**이화여대 멋쟁이사자처럼 10기 전시 사이트**](https://github.com/EWHA-LIKELION/10th-online-exhibition) | 프론트엔드 리드 (메인페이지 개발) |
 | 2022.03-2022.06 | [**오랭 : 이화여대 맛집 사이트**](https://github.com/orgs/2022-EWHA-OSP-5/repositories) | 프론트엔드 리드 (메인페이지 개발) |
 | 2022.07-2022.09 | [**💚Re:wha : 2022 이화여대 대동제 공식 부스 안내 사이트**](https://github.com/EWHA-LIKELION/10th-Ewha-Festival-Front) | 프론트엔드 리드 (메인, 카테고리, 유저 관리 개발) |
