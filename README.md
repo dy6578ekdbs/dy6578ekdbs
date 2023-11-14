@@ -3,11 +3,10 @@
 
 
 <h3>🖥️ Tech Stack </h4>
-
-<a href="/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=React&logo=React&logoColor=white"/></a>
-<a href="/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=Next.js&logo=Next.js&logoColor=white"/></a>
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=TypeScript&logo=TypeScript&logoColor=white"/></a>
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=JavaScript&logo=JavaScript&logoColor=white"/></a>
+<a href="/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=React&logo=React&logoColor=white"/></a>
+<a href="/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=Next.js&logo=Next.js&logoColor=white"/></a>
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=HTML5&logo=HTML5&logoColor=white"/></a>
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=CSS3&logo=CSS3&logoColor=white"/></a>
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=Django&logo=Django&logoColor=white"/></a>
