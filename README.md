@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20Web%20FrontEnd%20developer,%20Dayun%20%20&height=200&fontSize=50&fontColor=ffffff)
 
 
-<h3>🖥️ Tech Stack </h4>
+# Stack  
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=TypeScript&logo=TypeScript&logoColor=white"/></a>
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=JavaScript&logo=JavaScript&logoColor=white"/></a>
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=React&logo=React&logoColor=white"/></a>
@@ -13,26 +13,22 @@
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=Flask&logo=Flask&logoColor=white"/></a>
 
 
-<h3>👇 FOLLOW ME</h4>
-
- <a href="https://www.instagram.com/maru_is_big/" target="_blank"><img src="https://img.shields.io/badge/Maru-E4405F?style=Instagram&logo=Instagram&logoColor=white"/></a>
+<h3> FOLLOW ME</h4>
  <a href="https://velog.io/@dy6578ekdbs" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=Velog&logo=Velog&logoColor=white"/></a>
  <a href="mailto:yocee57@dy6578ekdbs@gmail.com" target="_blank"><img src="https://img.shields.io/badge/dy6578ekdbs@gmail.com-EA4335?style=Gmail&logo=Gmail&logoColor=white"/></a>
-
+ <a href="https://www.instagram.com/maru_is_big/" target="_blank"><img src="https://img.shields.io/badge/Maru-E4405F?style=Instagram&logo=Instagram&logoColor=white"/></a>
 <br/>
 
-<h3>💙 Experiences </h3>
-
-| PERIOD | TITLE | SUBJECT |
-| ------- | ------- | -------|
-| 2021.03 - 2021.12 | 이화여대 멋쟁이사자처럼 9기 | 개발자 |
-| 2022.03 - 2022.11 | 이화여대 멋쟁이사자처럼 10기 | 운영진 - 프론트엔드 트랙 대표 |
-| 2022.01 - 2023.01 | 이화여대 웹 개발 동아리 EFUB 2기 | 프론트엔드 리드 개발자 |
-| 2023.01 - 2023. | 이화여대 웹 개발 동아리 EFUB 3기 | 임원진 - 프론트엔드 트랙장 |
+<h3> Experiences </h3>
+<ul>
+ <li>2021.03 - 2023.01 | 이화여대 멋쟁이사자처럼 9-10기 | 개발자</li>
+ <li> 2022.01 - 2023.12 | 이화여대 웹 개발 동아리 EFUB 2-3기 | 프론트엔드 리드 개발자</li>
+</ul>
 
 
-<br/>
 
+
+<!--
 <h3>💻 Project </h3>
 
 | PERIOD | TITLE | SUBJECT |
@@ -46,6 +42,8 @@
 | 2022.07-2022.08 | [**너낼역 : 지하철 좌석 현황 공유 서비스**](https://github.com/NNAERYEOK) | 프론트엔드 리드 (메인 페이지, 유저 관리 개발) |
 | 2021.09-2021.11 | [**DMD STUDIO : 최애 Youtube 영상 추천&관리 플랫폼**](https://github.com/dy6578ekdbs/PrivateProject_DY) | UI 디자인, 서버 개발 |
 | 2021.06-2021.08 | [**골라바 : 사소한 고민을 해결해주는 투표 커뮤니티**](https://github.com/dy6578ekdbs/Gollaba) | 투표 기능, 메인페이지 개발  |
+
+-->
 
 
 <!-- 
