@@ -1,8 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=668EFD&text=%20Web%20FrontEnd%20developer,%20Dayun%20%20&height=200&fontSize=50&fontColor=ffffff)
 
-
-
 ### :clipboard: I've Used 
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=TypeScript&logo=TypeScript&logoColor=white"/></a>
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=JavaScript&logo=JavaScript&logoColor=white"/></a>
