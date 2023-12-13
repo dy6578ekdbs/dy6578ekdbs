@@ -11,12 +11,9 @@
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=Django&logo=Django&logoColor=white"/></a>
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=Flask&logo=Flask&logoColor=white"/></a>
 
-
-### :clipboard: Blog
-<a href="https://velog.io/@dy6578ekdbs" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=Velog&logo=Velog&logoColor=white"/></a>
-<br/>
-
 ### :clipboard: Contact 
+<a href="https://velog.io/@dy6578ekdbs" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=Velog&logo=Velog&logoColor=white"/></a>
+<a href="https://www.instagram.com/dayun.dev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-DD2A7B?style=Velog&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:yocee57@dy6578ekdbs@gmail.com" target="_blank"><img src="https://img.shields.io/badge/dy6578ekdbs@gmail.com-EA4335?style=Gmail&logo=Gmail&logoColor=white"/></a>
 <br/>
 
@@ -28,6 +25,9 @@
 
 
 <!--
+
+### :clipboard: Blog
+
 <h3>💻 Project </h3>
 
 | PERIOD | TITLE | SUBJECT |
