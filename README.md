@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=668EFD&text=%20Web%20FrontEnd%20developer,%20Dayun%20%20&height=200&fontSize=50&fontColor=ffffff)
 
-### :clipboard: I've Used 
+### :clipboard: Skills
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=TypeScript&logo=TypeScript&logoColor=white"/></a>
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=JavaScript&logo=JavaScript&logoColor=white"/></a>
 <a href="/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=React&logo=React&logoColor=white"/></a>
@@ -17,7 +17,12 @@
 <a href="mailto:yocee57@dy6578ekdbs@gmail.com" target="_blank"><img src="https://img.shields.io/badge/dy6578ekdbs@gmail.com-EA4335?style=Gmail&logo=Gmail&logoColor=white"/></a>
 <br/>
 
-### :clipboard: Experiences
+### :clipboard: Work Experiences
+<ul>
+ <li> 2023.12 - 2024.12 | 팀스파르타 | 프론트엔드 개발 인턴 </li>
+</ul>
+
+### :clipboard: Extra-curricular activities 
 <ul>
  <li> 2021.03 - 2023.01 | 이화여대 <strong>멋쟁이사자처럼</strong> 9-10기 | 부원&운영진 </li>
  <li> 2022.01 - 2023.12 | 이화여대 웹 개발 동아리 <strong>EFUB</strong> 2-3기 | 부원&임원진 </li>
